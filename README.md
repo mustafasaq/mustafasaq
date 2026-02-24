@@ -7,3 +7,5 @@ I’m interested in building reliable, stateful services that operate under real
 Recent projects include an autonomous IVR agent coordinating live audio streams and tool-constrained LLM execution, a cross-language TCP chat system, and an ECG-based arrhythmia detection pipeline with strict cross-validation 🤖.
 
 I’m open to backend, distributed systems, and applied AI engineering opportunities 🚀.
+
+[Resume](https://raw.githubusercontent.com/wurb0/wurb0/main/Mustafa%20Saqib%20CV.pdf)
